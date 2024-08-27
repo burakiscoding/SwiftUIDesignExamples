@@ -11,7 +11,7 @@ import SwiftUI
 struct DesignExamplesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PlacesToVisitDetailView()
         }
     }
 }
